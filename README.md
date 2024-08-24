@@ -83,5 +83,3 @@ A: You can reset your password by clicking the "Forgot Password" link on the log
 ### Q: Is this app available on Android?
 
 A: Currently, this app is only available for iOS devices.
-
-Feel free to customize this README to include more specific information about your app, technologies used, and project structure. Providing clear and concise instructions will make it easier for others to understand and contribute to your Instagram clone app project.
