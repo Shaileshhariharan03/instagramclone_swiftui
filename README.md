@@ -41,10 +41,6 @@ These instructions will help you get a copy of the project up and running on you
 
 3. Build and run the project in Xcode using the iOS Simulator or a physical device.
 
-## Usage
-
-Describe how to use your app here. Include any special setup or configuration that users need to know about.
-
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
@@ -55,12 +51,6 @@ If you'd like to contribute to this project, please follow these steps:
 4. Commit your changes with descriptive commit messages.
 5. Push your changes to your forked repository.
 6. Create a pull request to the main project repository.
-
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) and our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
