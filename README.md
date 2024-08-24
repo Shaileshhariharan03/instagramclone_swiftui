@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub Guides](https://guides.github.com/)
 
 
-- **Version 1.0.0** (MM/DD/YYYY)
+- **Version 1.0.0
   - Initial release of the Instagram clone app.
 
 ## Frequently Asked Questions (FAQs)
